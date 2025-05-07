@@ -1,0 +1,11 @@
+numpy
+sounddevice
+librosa
+torch
+requests
+bcrypt
+kivy
+kivymd
+twilio
+tensorflow
+scikit-learn
